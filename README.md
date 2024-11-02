@@ -73,4 +73,4 @@
    ![Screenshot 2024-11-01 205918](https://github.com/user-attachments/assets/85345c46-ac22-4fdb-b4f6-370bf62f3046)
    ![Screenshot 2024-11-01 205926](https://github.com/user-attachments/assets/b23086de-00ff-4e0c-88f4-2e9d4c319603)
 
-#### Laporan PDF [https://drive.google.com/] (https://drive.google.com/file/d/1w9r3MlIskVltYxCwlNgECuVcEZlqDve6/view?usp=sharing)
+#### Laporan PDF [https://drive.google.com/](https://drive.google.com/file/d/1w9r3MlIskVltYxCwlNgECuVcEZlqDve6/view?usp=sharing)
