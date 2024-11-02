@@ -10,9 +10,9 @@
 | --- | ------------- | ----------------------------- |
 | 1   | Praktikum 1&2 | [Click Here](#praktikum-1&2)  |
 | 2   | Praktikum 3   | [Click Here](#praktikum-3)    |
-| 3   | Praktikum 4   | [Click Here](##praktikum-4)   |
-| 4   | Praktikum 5   | [Click Here](##praktikum-5)   |
-| 5   | Praktikum 6&7 | [Click Here](##praktikum-6&7) |
+| 3   | Praktikum 4   | [Click Here](#praktikum-4)   |
+| 4   | Praktikum 5   | [Click Here](#praktikum-5)   |
+| 5   | Praktikum 6&7 | [Click Here](#praktikum-6&7) |
 
 ### Praktikum 1&2
 
